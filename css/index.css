@@ -188,7 +188,7 @@ body {
   margin-left: 51.41667%;
 }
 
-@media(max-width: 360px) {
+@media(max-width: 600px) {
   body {
     font-size: 1.25em;
   }
@@ -236,10 +236,10 @@ body {
   }
 
   .element-1 {
-    top: -2px;
-    left: 11.1024305555%;
-    width: 88.6111111111%;
-    height: 55px;
+    top: 0;
+    left: 8.5%;
+    width: 91.5%;
+    height: 53px;
     margin-left: 0;
   }
 

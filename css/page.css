@@ -194,7 +194,7 @@ body {
   margin-left: 51.41667%;
 }
 
-@media(max-width: 360px) {
+@media(max-width: 600px) {
   body {
     font-size: 1.25em;
   }
@@ -241,7 +241,7 @@ body {
   }
 
   ._container {
-    width: 74.1666666666%;
+    width: 52.8333333333%;
     margin-left: 0;
   }
 
@@ -265,9 +265,9 @@ body {
 
   .element-1 {
     clear: none;
-    top: -3px;
-    left: 11.3888888888%;
-    width: 88.6111111111%;
+    top: 0;
+    left: 7.5%;
+    width: 92.5%;
     height: 55px;
     margin-left: 0;
   }
@@ -289,8 +289,8 @@ body {
   }
 
   .element-4 {
-    top: 162px;
-    left: 13.2899305555%;
+    top: 158px;
+    left: 23.3333333333%;
   }
 
   .element-5 {
@@ -303,7 +303,7 @@ body {
   .image-1 {
     position: fixed;
     float: none;
-    left: -68.9453125%;
+    left: 4.1666666666%;
     margin-left: 0;
     opacity: 0.3;
   }
@@ -322,8 +322,7 @@ body {
     position: relative;
     z-index: 17;
     width: 26px;
-    margin-top: 75px;
-    margin-left: 44.72222%;
+    margin-top: 2141px;
   }
 
   .text-1 {
